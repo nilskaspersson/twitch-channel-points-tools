@@ -1,5 +1,3 @@
-/* eslint-disable */
-
 require("dotenv").config();
 
 const nodeFetch = require("node-fetch");
